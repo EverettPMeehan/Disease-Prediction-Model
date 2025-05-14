@@ -10,10 +10,12 @@ Everett Meehan https://github.com/EverettPMeehan
 
 Ryon Rezania https://github.com/Ryon74 
 
-📌 Project Overview
+📌 Project Overview:
+
 The primary objective of this project is to create a predictive model that can diagnose diseases based on reported symptoms. This can be used as an initial diagnostic tool in healthcare applications to assist doctors or individuals in understanding potential health issues.
 
-🚀 Features
+🚀 Features:
+
 Input-based symptom checker
 
 Machine learning classification model
@@ -24,7 +26,8 @@ Accuracy evaluation and prediction examples
 
 Can be adapted to real-world healthcare applications
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
+
 Python
 
 Scikit-learn
@@ -35,9 +38,10 @@ NumPy
 
 Jupyter Notebook
 
-Seaborn / Matplotlib (for data visualization, if included)
+Seaborn / Matplotlib
 
-🧠 How It Works
+🧠 How It Works:
+
 Data Preprocessing: The dataset is cleaned, and symptoms are encoded appropriately.
 
 Model Training: A classifier (e.g., Decision Tree, Random Forest, etc.) is trained on the symptom-disease mapping.
