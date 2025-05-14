@@ -4,7 +4,8 @@ This project is a machine learning-based disease prediction system developed usi
 
 View Code: https://colab.research.google.com/drive/12XVXDalgpbI4R3GFfdtTBhEmV9FIjkQf?usp=sharing 
 
-👥 Authors
+👥 Authors:
+
 Everett Meehan https://github.com/EverettPMeehan 
 
 Ryon Rezania https://github.com/Ryon74 
