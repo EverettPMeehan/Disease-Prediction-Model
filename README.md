@@ -1,11 +1,11 @@
 # Disease-Prediction-Model
 
-This project is a machine learning-based disease prediction system developed using Python and popular data science libraries. The model takes user input of symptoms and predicts the most likely disease using a trained classifier.
+This project is a machine learning-based disease prediction system developed using Python and popular data science libraries. Using a trained classifier, the model takes user input of symptoms and predicts the most likely disease.
 
 👥 Authors
-[Your Name]
+Everett Meehan https://github.com/EverettPMeehan 
 
-[Your Friend's Name]
+Ryon Rezania https://github.com/Ryon74 
 
 📌 Project Overview
 The primary objective of this project is to create a predictive model that can diagnose diseases based on reported symptoms. This can be used as an initial diagnostic tool in healthcare applications to assist doctors or individuals in understanding potential health issues.
@@ -35,7 +35,7 @@ Jupyter Notebook
 Seaborn / Matplotlib (for data visualization, if included)
 
 🧠 How It Works
-Data Preprocessing: The dataset is cleaned and symptoms are encoded appropriately.
+Data Preprocessing: The dataset is cleaned, and symptoms are encoded appropriately.
 
 Model Training: A classifier (e.g., Decision Tree, Random Forest, etc.) is trained on the symptom-disease mapping.
 
@@ -70,11 +70,11 @@ Launch the notebook:
 bash
 Copy
 Edit
-jupyter notebook disease-prediction-model.ipynb
+Jupyter Notebook disease-prediction-model.ipynb
 📈 Future Work
 Integration with a web interface for real-time usage
 
-Expand dataset to include more diseases and symptoms
+Expand the dataset to include more diseases and symptoms
 
 Incorporate NLP for natural language symptom entry
 
